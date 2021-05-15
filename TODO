@@ -1,0 +1,5 @@
+- export prometheus metrics
+
+- test: more request handling of devicelist and device
+- test: more failures in request handling
+
